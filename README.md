@@ -1,6 +1,8 @@
 # Documentation Showcase App
 
-This is a Next.js application designed to showcase a documentation section for a Next.js app. Developers can easily integrate and render their documentation files by dropping them into the respective folders.
+This is a POC for a Next.js application designed to showcase a documentation section for a Next.js app. Developers can easily integrate and render their documentation files by dropping them into the respective folders.
+
+Working example here: https://mr-docs.vercel.app/docs/01-README 
 
 ## Getting Started
 
